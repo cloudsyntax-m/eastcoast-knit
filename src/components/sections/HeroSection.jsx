@@ -146,7 +146,7 @@ export default function HeroSection() {
               href="/products"
               className="group flex items-center gap-3 bg-ec-red hover:bg-ec-red-dark text-ec-white font-mono text-sm tracking-widest uppercase px-8 py-4 transition-all duration-300"
             >
-              Explore Collection
+              Explore Collections
               <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
             </Link>
             <Link
