@@ -209,7 +209,7 @@ export default function Navbar() {
               ))}
             </div>
             <div className="px-6 py-6 border-t border-white/10">
-              <p className="font-mono text-ec-red text-xs tracking-widest uppercase">+88 02-4767-0776,77</p>
+              <p className="font-mono text-ec-red text-xs tracking-widest uppercase">+88 02-4767-0776,78</p>
             </div>
           </motion.div>
         )}
