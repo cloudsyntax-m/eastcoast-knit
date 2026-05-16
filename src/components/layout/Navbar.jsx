@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, ShoppingBag, Search, Phone } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
-import Logo from "@/assets/Logo/logo.png";
+import Logo from "@/assets/Logo/Logo.png";
 
 const navLinks = [
   { label: 'Home', href: '/' },
